@@ -15,6 +15,17 @@ Projeto de autenticação em PHP com controle de sessão.
 <img src="screenshot/Img_login-responsivo.jpg" width="300">
 
 ---
+## 🌐 Página do Site
+
+<img src="screenshot/img_site.jpg" width="700">
+
+---
+
+## 📱 Site Responsivo
+
+<img src="screenshot/img_site-responsivo.jpg" width="300">
+
+---
 
 ## 📂 Área de Projetos
 
@@ -28,12 +39,3 @@ Projeto de autenticação em PHP com controle de sessão.
 
 ---
 
-## 🌐 Página do Site
-
-<img src="screenshot/img_site.jpg" width="700">
-
----
-
-## 📱 Site Responsivo
-
-<img src="screenshot/img_site-responsivo.jpg" width="300">
