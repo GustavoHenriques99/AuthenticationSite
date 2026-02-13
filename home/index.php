@@ -153,12 +153,13 @@
 
       <!-- IMAGEM / CAPA -->
       <div class="projeto-imagem">
-        <img src="img/Capa_Hackaton.jpg" alt="Capa Hackathon">
+        <img src="img/teste.png" alt="Capa Hackathon">
       </div>
 
       <!-- DESCRIÇÃO -->
       <div class="projeto-conteudo">
-        <h3>Hackathon - Ouvidoria Limeira</h3>
+        <!-- <h3>Hackathon - Ouvidoria Limeira</h3> -->
+         <h3>1 - Lorem Ipsum</h3>
 
         <p>
           Projeto desenvolvido para a Ouvidoria da Cidade de Limeira, no qual foi realizada a extração das informações contidas no arquivo fornecido, utilizando a linguagem Python. Em seguida, foi elaborado o Diagrama Entidade-Relacionamento (DER) previamente definido e realizada a modelagem e visualização das informações por meio do Power BI.
@@ -183,26 +184,24 @@
     </div>
 
 
-     <div class="projeto-card">
+    <div class="projeto-card">
 
       <!-- IMAGEM / CAPA -->
       <div class="projeto-imagem">
-        <img src="img/Capa_Hackaton.jpg" alt="Capa Hackathon">
+        <img src="img/teste.png" alt="Capa Hackathon">
       </div>
 
       <!-- DESCRIÇÃO -->
       <div class="projeto-conteudo">
-        <h3>Hackathon - Ouvidoria Limeira</h3>
+        <h3>2 - Lorem Ipsum</h3>
 
         <p>
-          Projeto desenvolvido para a Ouvidoria da Cidade de Limeira, no qual foi realizada a extração das informações contidas no arquivo fornecido, utilizando a linguagem Python. Em seguida, foi elaborado o Diagrama Entidade-Relacionamento (DER) previamente definido e realizada a modelagem e visualização das informações por meio do Power BI.
+          Lorem ipsum dolor sit amet. Rem dolor reprehenderit vel iste quaerat ut quasi nesciunt. Ut fugit consequatur hic libero quam a ipsa nisi aut autem illo!
         </p>
-
-        <ul>
-          <li>✔ Estração </li>
-          <li>✔ Código organizado</li>
-          <li>✔ Boa performance</li>
-        </ul>
+          <li>✔ Lorem ipsum dolor sit amet </li>
+          <li>✔ Lorem ipsum dolor sit amet </li>
+          <li>✔ Lorem ipsum dolor sit amet </li>
+        </ul> 
 
         <!-- BOTÕES -->
         <div class="projeto-botoes">
@@ -219,8 +218,44 @@
           </a>
         </div>
       </div>
+    </div>
 
 
+      <div class="projeto-card">
+
+        <!-- IMAGEM / CAPA -->
+        <div class="projeto-imagem">
+          <img src="img/teste.png" alt="Capa Hackathon">
+        </div>
+
+        <!-- DESCRIÇÃO -->
+        <div class="projeto-conteudo">
+          <h3>3 - Lorem Ipsum </h3>
+
+          <p>
+            Lorem ipsum dolor sit amet. Rem dolor reprehenderit vel iste quaerat ut quasi nesciunt. Ut fugit consequatur hic libero quam a ipsa nisi aut autem illo!Non dolor inventore aut rerum adipisci est perspiciatis magnam et culpa quisquam. Aut repellendus galisum id galisum iusto est repellendus fuga! Est corrupti expedita sed nihil beatae qui quasi nihil.
+          </p>
+          <ul>
+            <li>✔ Lorem ipsum dolor sit amet </li>
+            <li>✔ Lorem ipsum dolor sit amet </li>
+            <li>✔ Lorem ipsum dolor sit amet </li>
+          </ul> 
+
+          <!-- BOTÕES -->
+          <div class="projeto-botoes">
+            <a href="https://youtube.com" target="_blank" class="btn btn-video">
+              <i class="fa-brands fa-youtube"></i> Ver vídeo
+            </a>
+
+            <a href="https://github.com/GustavoHenriques99/Hackathon---Ouvidoria-Limeira" target="_blank" class="btn btn-github">
+              <i class="fa-brands fa-github"></i> Baixar projeto
+            </a>
+
+            <a href="arquivo.zip" download class="btn btn-download">
+              <i class="fa-solid fa-download"></i> Baixar projeto
+            </a>
+        </div>
+      </div>
   </section>
 
 
